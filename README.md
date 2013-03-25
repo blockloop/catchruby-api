@@ -17,8 +17,10 @@ streams = Catch::Stream.all
 space = streams.first
 
 # Get a note
-barenote = space.notes.first (will get you the notes details without the text)
-note = space.notes.first.full (gets the full note with the text)
+note = space.notes.first
+
+# Search for a note within a stream
+result = stream.search "foo" # => array of Note
 ```
 
   [Android]: https://github.com/catch/android-api
