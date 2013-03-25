@@ -1,10 +1,6 @@
 # Catch Notes Ruby API
 
-![Catch Notes](https://catch.com/wp-content/uploads/2013/01/home_hero_2013.jpg)
-
-Catch is a free app for capturing ideas and turning them into action with simple mobile collaboration.
-
-[Catch Notes](http://catch.com) is an awesome and simplistic note/todo application. It works in your browser or on your phone or tablet.
+[Catch Notes](http://catch.com) is a free app for capturing ideas and turning them into action with simple mobile collaboration.
 
 They have wrapper libraries for [Android][], [PHP][], [Obj-C][], and [Python][] so I decided to write one for Ruby.
 
